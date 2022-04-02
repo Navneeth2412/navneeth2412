@@ -34,23 +34,24 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navneeth-prasanth-18a450191/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/navnxxth" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+<p align="left">
+<a href="https://twitter.com/navneethprasan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneethprasan1" height="30" width="40" /></a>
+<a href="https://instagram.com/navnxxth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navnxxth" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/navneeth2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navneeth2412" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/navneeth2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navneeth2412" height="30" width="40" /></a>
+<a href="https://discord.gg/coffeeman#9371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coffeeman#9371" height="30" width="40" /></a>
+</p>
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=navneeth2412&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=navneeth2412&show_icons=true&theme=radical" align="left" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneeth2412&hide_border=true&layout=compact" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneeth2412&layout=compact&theme=radical" align="left" />  
 
 <br/>  
 
