@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Navneeth Prasanth, ISE undergrad at Ramaiah Institute of Technology , intreseted in ios and web development.</div>  
+### <div align="center">I'm Navneeth Prasanth, ISE undergrad at Ramaiah Institute of Technology , intreseted in ios and web development .</div>  
   
 
 <br/>  
